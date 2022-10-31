@@ -1,6 +1,7 @@
 # flutterworldtime
 
-A new Flutter application.
+A first practice Flutter application.
+
 
 ## Getting Started
 
